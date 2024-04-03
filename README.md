@@ -13,3 +13,21 @@ Apply styles of elements that are descendants of another element, while leaving 
 3.  As a user, I should see a font size of `20px` for elements that are descendants of the `div` element.
 
 4.  As a user, I should see text center aligned for elements that are descendants of the `div` element.
+
+## Technologies
+
+Uses HTML5 and CSS3.
+
+## Testing
+
+Make sure all user stories have been met.
+
+## Deployment
+
+On [GitHub Pages](https://derektypist.github.io/odin-p-css-foundations-e/) at the main branch.
+
+## Credits
+
+### Acknowledgements
+
+[FreeCodeCamp](https://www.freecodecamp.org)
